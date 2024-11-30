@@ -11,4 +11,4 @@
 
 ------
 
-访问地址监测：**[talefou/talefou.github.io](https://www.jsdelivr.com/package/gh/talefou/static)**
+访问地址监测：[talefou/talefou.github.io](https://www.jsdelivr.com/package/gh/talefou/static)
