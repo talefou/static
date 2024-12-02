@@ -7,7 +7,7 @@
 - 使用版本范围而不是特定版本（推荐）
 `https://cdn.jsdelivr.net/gh/talefou/static@v1.0.0/index.json`
 
-- 将 `.min` 添加到任何 `JS`/`CSS` 文件中以获取缩小版本，如果不存在，将为会自动生成。
+- 将 `.min` 添加到任何 `JS`/`CSS` 文件中以获取缩小版本，如果不存在，将会自动生成。
 
 ------
 
