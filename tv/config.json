@@ -21,7 +21,7 @@
     "ffzy": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "name": "非凡影视",
-      "detail": "http://ffzy5.tv"
+      "detail": "https://www.ffzy.tv"
     },
     "zy360": {
       "api": "https://360zy.com/api.php/provide/vod",
@@ -66,7 +66,8 @@
     },
     "hnzy": {
       "api": "https://www.hongniuzy3.com/api.php/provide/vod",
-      "name": "红牛资源"
+      "name": "红牛资源",
+      "detail": "https://hongniuziyuan.com"
     }
   }
 }
