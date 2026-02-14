@@ -51,7 +51,7 @@
     },
     "dbcj": {
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-      "name": "豆瓣采集"
+      "name": "豆瓣点播"
     },
     "mozhua": {
       "api": "https://mozhuazy.com/api.php/provide/vod",
