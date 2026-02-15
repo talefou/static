@@ -1,5 +1,5 @@
 {
-  "cache_time": 7200,
+  "cache_time": 9200,
   "api_site": {
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
@@ -103,7 +103,7 @@
     },
     "lzicj": {
       "api": "https://cj.lzcaiji.com/api.php/provide/vod",
-      "name": "量子采集"
+      "name": "量子点播"
     },
     "bdzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
@@ -147,7 +147,7 @@
     },
     "iqiyi": {
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
-      "name": "爱奇艺"
+      "name": "爱奇艺资源"
     },
     "yzzy": {
       "api": "https://api.yzzy-api.com/inc/apijson.php",
