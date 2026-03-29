@@ -20,11 +20,11 @@
 ---
 
 ### 📱 移动端下载
-- **Android 端 (Selene)**
+- **Android (Selene)**
   <br>
   [app-release.apk](https://raw.vayfou.cn/https://github.com/mtvpls/Selene-Build/releases/download/v0.6.0/app-release.apk)
 
-- **iOS 端 (Selene)**
+- **iOS (Selene)**
   <br>
   <small>需自签名安装，推荐添加到主屏幕使用：</small>
   <br>
@@ -33,11 +33,11 @@
 ---
 
 ### 💻 桌面端下载
-- **Windows 端 (Selene)**
+- **Windows (Selene)**
   <br>
   [selene-0.6.0-windows-x64-portable.zip](https://github.com/mtvpls/Selene-Build/releases/download/v0.6.0/selene-0.6.0-windows-x64-portable.zip)
 
-- **Mac 端 (Selene)**
+- **macOS (Selene)**
   <br>
   <small>根据芯片架构选择：</small>
   <br>
@@ -47,7 +47,7 @@
 ---
 
 ### 📺 电视端下载
-- **Android TV 端 (OrionTV)**
+- **Android TV (OrionTV)**
   <br>
   <small>适配电视屏幕尺寸，版本 v2.1.0：</small>
   <br>
@@ -56,7 +56,7 @@
 ---
 
 ### 📦 其他资源
-- **Web 端 (MoonTVPlus)**
+- **Web (MoonTVPlus)**
   <br>
   <small>即服务器地址，版本 v215.0.0：</small>
   <br>
