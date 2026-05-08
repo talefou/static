@@ -130,7 +130,7 @@
       "name": "U酷点播"
     },
     "1080zy": {
-      "api": "https://api.1080zyku.com/inc/apijson.php/",
+      "api": "https://api.1080zyku.com/inc/apijson.php",
       "name": "1080资源"
     },
     "hhzy": {
