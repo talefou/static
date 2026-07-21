@@ -15,15 +15,15 @@
     },
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
-      "name": "天涯资源"
+      "name": "天涯影视"
     },
     "ffzy": {
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
-      "name": "非凡影视"
-    },
-    "ffcj": {
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
       "name": "非凡资源"
+    },
+    "ffyszy": {
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡影视"
     },
     "360zy": {
       "api": "https://360zyzz.com/api.php/provide/vod",
@@ -49,10 +49,6 @@
       "api": "https://dbzy.tv/api.php/provide/vod",
       "name": "豆瓣资源"
     },
-    "dbcj": {
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-      "name": "豆瓣点播"
-    },
     "mzzy": {
       "api": "https://mozhuazy.com/api.php/provide/vod",
       "name": "魔爪资源"
@@ -60,10 +56,6 @@
     "mdzy": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "魔都资源"
-    },
-    "mdcj": {
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-      "name": "魔都动漫"
     },
     "zdzy": {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
