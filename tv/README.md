@@ -58,7 +58,7 @@
 ### 📦 其他资源
 - **Web (MoonTVPlus)**
   <br>
-  <small>即服务器地址，版本 v215.0.0：</small>
+  <small>即服务器地址，版本与上游同步：</small>
   <br>
   [https://tv.vayfou.cn](https://tv.vayfou.cn)
 - **影视采集接口测速报告**
@@ -71,3 +71,8 @@
   <small>资源搜索引擎：</small>
   <br>
   [https://pan.xiaozi.cc](https://pan.xiaozi.cc)
+- **TVBox Source Aggregator**
+  <br>
+  <small>JSON 格式：</small>
+  <br>
+  ```[{"key": "...", "name": "...", "api": "..."}]```
