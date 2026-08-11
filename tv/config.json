@@ -160,6 +160,18 @@
     "nnzy": {
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
       "name": "牛牛资源"
+    },
+    "xgzy": {
+      "api": "https://caiji.xgzyapi.com/api.php/provide/vod",
+      "name": "西瓜资源"
+    },
+    "hyzy": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "name": "虎牙资源"
+    },
+    "kczy": {
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
+      "name": "快车资源"
     }
   }
 }
