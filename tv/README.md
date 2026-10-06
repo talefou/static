@@ -22,13 +22,13 @@
 ### 📱 移动端下载
 - **Android (Selene)**
   <br>
-  [app-release.apk](https://raw.vayfou.cn/https://github.com/mtvpls/Selene-Build/releases/download/v0.6.0/app-release.apk)
+  [app-release.apk](https://github.com/mtvpls/Selene-Build/releases/download/v0.6.0/app-release.apk)
 
 - **iOS (Selene)**
   <br>
   <small>需自签名安装，推荐添加到主屏幕使用：</small>
   <br>
-  [selene-0.6.0.ipa](https://raw.vayfou.cn/https://github.com/mtvpls/Selene-Build/releases/download/v0.6.0/selene-0.6.0.ipa)
+  [selene-0.6.0.ipa](https://github.com/mtvpls/Selene-Build/releases/download/v0.6.0/selene-0.6.0.ipa)
 
 ---
 
@@ -51,7 +51,7 @@
   <br>
   <small>适配电视屏幕尺寸，版本 v2.1.0：</small>
   <br>
-  [OrionTV2.1.0.apk](https://raw.vayfou.cn/https://github.com/mtvpls/MoonTVPlus/releases/download/OrionTV适配版2/OrionTV2.1.0.apk)
+  [OrionTV2.1.0.apk](https://github.com/mtvpls/MoonTVPlus/releases/download/OrionTV适配版2/OrionTV2.1.0.apk)
 
 ---
 
@@ -76,3 +76,6 @@
   <small>JSON 格式：</small>
   <br>
   ```[{"key": "...", "name": "...", "api": "..."}]```
+
+> [!NOTE]
+> 本文档不与上游产物同步，请自行查看最新版本。
